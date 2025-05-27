@@ -2,6 +2,9 @@
 
 A clean and responsive weather app built with React that shows you the current weather and a 5-day forecast in real time. It features a modern, glass-like design that feels smooth and easy to use, giving you all the weather info you need in a simple, beautiful interface.
 
+<img width="1468" alt="Screenshot 2025-05-27 at 17 00 08" src="https://github.com/user-attachments/assets/a8017693-a574-413c-96b8-b43e19047598" />
+
+
 ---
 
 ## Technologies Used
