@@ -5,7 +5,6 @@ import {
     CardContent,
     Typography,
     Box,
-    Grid,
 } from '@mui/material';
 import styled from 'styled-components';
 import {
